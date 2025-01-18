@@ -1,0 +1,56 @@
+---
+title: "About Cijun Gao"
+description: "Learn more about Cijun Gao"
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+
+# About Cijun Gao
+
+Cijun Gao is a PhD candidate in Psychology at the University of Macau, specializing in cognitive neuroscience and psychology. Her research focuses on the neural mechanisms underlying cognitive processes such as perception, attention, and memory, employing techniques like fMRI, EEG, and psychophysical experiments. 
+
+## Education
+
+Cijun is pursuing her PhD in Psychology at the University of Macau. She successfully defended her PhD thesis titled "The Neural Correlates of Music Cognition and Its Relationship to Language" on November 27, 2024.
+
+## Research and Publications
+
+Cijun has contributed to several research studies, including:
+
+-   **"Are self-caused distractors easier to ignore? Experiments with the flanker task"**\
+    Published in *Attention, Perception, & Psychophysics*, this study examines the ease of ignoring self-caused distractors using the flanker task.
+
+-   **"The good, the bad, and the red: implicit color-valence associations across cultures"**\
+    Published in *Psychological Research*, this study explores implicit associations between colors and valence across different cultures.
+
+For a comprehensive list of her publications and citations, please visit her [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=5sAG_d8AAAAJ).
+
+## Skills and Expertise
+
+Cijun's key skills and areas of expertise include:
+
+-   Cognitive Neuroscience
+-   Cognitive Psychology
+-   Music and Language
+-   AI for Science
+
+## Personal Interests
+
+Beyond her academic pursuits, Cijun is passionate about music. She joined the University of Macau Chinese Orchestra in her first year and continued to study music, promoting traditional Chinese culture through her performances. Below is a video of one of her pipa performances:
+
+<iframe width="450" height="215" src="https://www.youtube.com/embed/RcP-YAT80l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+## Connect with Cijun
+
+To learn more or connect with Cijun Gao, feel free to reach out:
+
+-   **Email**: yc07310\@um.edu.mo
+-   **Google Scholar**: <https://scholar.google.com/citations?hl=en&user=5sAG_d8AAAAJ>
+
+------------------------------------------------------------------------
+
+This about page is built with Quarto, a powerful tool for creating websites, presentations, and more!

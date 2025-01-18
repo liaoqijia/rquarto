@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Cijun Gao is a PhD candidate in Psychology at the University of Macau, specializing in cognitive neuroscience and psychology. Her research focuses on the neural mechanisms underlying cognitive processes such as perception, attention, and memory, employing techniques like fMRI, EEG, and psychophysical experiments.\n\n\nCijun is pursuing her PhD in Psychology at the University of Macau. She successfully defended her PhD thesis titled “The Neural Correlates of Music Cognition and Its Relationship to Language” on November 27, 2024.\n\n\n\nCijun has contributed to several research studies, including:\n\n“Are self-caused distractors easier to ignore? Experiments with the flanker task”\nPublished in Attention, Perception, & Psychophysics, this study examines the ease of ignoring self-caused distractors using the flanker task.\n“The good, the bad, and the red: implicit color-valence associations across cultures”\nPublished in Psychological Research, this study explores implicit associations between colors and valence across different cultures.\n\nFor a comprehensive list of her publications and citations, please visit her Google Scholar profile.\n\n\n\nCijun’s key skills and areas of expertise include:\n\nCognitive Neuroscience\nCognitive Psychology\nMusic and Language\nAI for Science\n\n\n\n\nBeyond her academic pursuits, Cijun is passionate about music. She joined the University of Macau Chinese Orchestra in her first year and continued to study music, promoting traditional Chinese culture through her performances. Below is a video of one of her pipa performances:\n\n\n\n\n\nTo learn more or connect with Cijun Gao, feel free to reach out:\n\nEmail: yc07310@um.edu.mo\nGoogle Scholar: https://scholar.google.com/citations?hl=en&user=5sAG_d8AAAAJ\n\n\nThis about page is built with Quarto, a powerful tool for creating websites, presentations, and more!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Cijun is pursuing her PhD in Psychology at the University of Macau. She successfully defended her PhD thesis titled “The Neural Correlates of Music Cognition and Its Relationship to Language” on November 27, 2024."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Over the years, Cijun has worked with [organizations, companies, or industries], excelling in roles such as:\n\n[Job Title], [Company Name] - [Brief description of role and achievements]\n[Job Title], [Company Name] - [Brief description of role and achievements]"
+  },
+  {
+    "objectID": "about.html#skills-and-expertise",
+    "href": "about.html#skills-and-expertise",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Cijun’s key skills and areas of expertise include:\n\nCognitive Neuroscience\nCognitive Psychology\nMusic and Language\nAI for Science"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Beyond her academic pursuits, Cijun is passionate about music. She joined the University of Macau Chinese Orchestra in her first year and continued to study music, promoting traditional Chinese culture through her performances. Below is a video of one of her pipa performances:"
+  },
+  {
+    "objectID": "about.html#connect-with-cijun",
+    "href": "about.html#connect-with-cijun",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "To learn more or connect with Cijun Gao, feel free to reach out:\n\nEmail: yc07310@um.edu.mo\nGoogle Scholar: https://scholar.google.com/citations?hl=en&user=5sAG_d8AAAAJ\n\n\nThis about page is built with Quarto, a powerful tool for creating websites, presentations, and more!"
+  },
+  {
+    "objectID": "about.html#research-and-publications",
+    "href": "about.html#research-and-publications",
+    "title": "About Cijun Gao",
+    "section": "",
+    "text": "Cijun has contributed to several research studies, including:\n\n“Are self-caused distractors easier to ignore? Experiments with the flanker task”\nPublished in Attention, Perception, & Psychophysics, this study examines the ease of ignoring self-caused distractors using the flanker task.\n“The good, the bad, and the red: implicit color-valence associations across cultures”\nPublished in Psychological Research, this study explores implicit associations between colors and valence across different cultures.\n\nFor a comprehensive list of her publications and citations, please visit her Google Scholar profile."
+  }
+]
