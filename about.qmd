@@ -9,7 +9,7 @@ format:
 
 # About Cijun Gao
 
-Cijun Gao is a PhD candidate in Psychology at the University of Macau, specializing in cognitive neuroscience and psychology. Her research focuses on the neural mechanisms underlying cognitive processes such as perception, attention, and memory, employing techniques like fMRI, EEG, and psychophysical experiments. 
+Cijun Gao is a PhD candidate in Psychology at the University of Macau, specializing in cognitive neuroscience and psychology. Her research focuses on the neural mechanisms underlying cognitive processes such as perception, attention, and memory, employing techniques like fMRI, EEG, and psychophysical experiments.
 
 ## Education
 
