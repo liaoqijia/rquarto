@@ -1,229 +1,91 @@
-/* Import Modern Typewriter Font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap');
-
-/* General Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'IBM Plex Mono', monospace;
-}
-
-/* Body */
+/* General Styles */
 body {
-    background-color: #1e1e2f; /* Dark background for a modern look */
-    color: #f8f8f2; /* Light text for contrast */
-    line-height: 1.8;
-    font-size: 16px;
-    padding: 20px;
+  font-family: 'Merriweather', serif; /* Elegant font for academic feel */
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7; /* Subtle background */
 }
 
-/* Header */
+/* Header Styles */
 header {
-    background-color: #6272a4; /* Soft blue-purple */
-    color: #f8f8f2;
-    text-align: center;
-    padding: 20px 0;
-    border-radius: 10px;
+  background-color: #0056b3; /* Deep academic blue */
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
 }
 
 header h1 {
-    font-size: 2.5rem;
-    font-weight: bold;
-    letter-spacing: 2px;
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
 }
 
-/* Navigation */
+header p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+/* Navigation Styles */
 nav {
-    text-align: center;
-    margin: 20px 0;
+  background-color: #003f7f; /* Slightly darker blue */
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 nav a {
-    color: #ff79c6; /* Vibrant pink */
-    text-decoration: none;
-    margin: 0 15px;
-    font-size: 1.2rem;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1rem;
 }
 
 nav a:hover {
-    text-decoration: underline;
-    color: #bd93f9; /* Purple hover effect */
+  text-decoration: underline;
 }
 
 /* Main Content */
 main {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #282a36; /* Darker gray background */
-    color: #f8f8f2; /* Light text for readability */
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  max-width: 800px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-    color: #50fa7b; /* Neon green */
-    font-weight: bold;
-    margin-bottom: 15px;
+main h2 {
+  color: #0056b3;
+  font-size: 2rem;
+  margin-top: 0;
 }
 
-h1 {
-    font-size: 2.5rem;
+main p {
+  font-size: 1.1rem;
 }
 
-h2 {
-    font-size: 2rem;
-}
-
-h3 {
-    font-size: 1.5rem;
-}
-
-h4 {
-    font-size: 1.2rem;
-}
-
-/* Paragraphs */
-p {
-    margin-bottom: 20px;
-}
-
-/* Lists */
-ul, ol {
-    margin-left: 25px;
-    margin-bottom: 20px;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-/* Links */
-a {
-    color: #8be9fd; /* Light blue */
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #50fa7b; /* Neon green on hover */
-}
-
-/* Code */
-code {
-    background-color: #44475a;
-    color: #f8f8f2;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 1rem;
-}
-
-pre {
-    background-color: #282a36;
-    color: #f8f8f2;
-    padding: 15px;
-    border-radius: 10px;
-    overflow-x: auto;
-    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-/* Blockquotes */
-blockquote {
-    background-color: #44475a;
-    padding: 15px;
-    border-left: 5px solid #bd93f9;
-    margin: 20px 0;
-    color: #f8f8f2;
-    font-style: italic;
-    border-radius: 10px;
-}
-
-/* Images */
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-}
-
-/* Tables */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
-
-th, td {
-    padding: 10px;
-    text-align: left;
-    border: 1px solid #6272a4;
-}
-
-th {
-    background-color: #44475a;
-    color: #f8f8f;
-}
-
-td {
-    background-color: #282a36;
-    color: #f8f8f;
-}
-
-/* Footer */
+/* Footer Styles */
 footer {
-    text-align: center;
-    padding: 15px;
-    background-color: #6272a4;
-    color: #f8f8f;
-    border-radius: 10px;
-    margin-top: 30px;
+  text-align: center;
+  padding: 10px;
+  background-color: #003f7f;
+  color: #fff;
+  margin-top: 20px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9rem;
 }
 
 footer a {
-    color: #8be9fd;
+  color: #ffd700; /* Academic gold */
+  text-decoration: none;
 }
 
 footer a:hover {
-    color: #50fa7b;
-    text-decoration: underline;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    body {
-        font-size: 14px;
-        padding: 10px;
-    }
-
-    header h1 {
-        font-size: 2rem;
-    }
-
-    nav a {
-        font-size: 1rem;
-        margin: 0 10px;
-    }
-
-    main {
-        padding: 15px;
-    }
-
-    h1 {
-        font-size: 2rem;
-    }
-
-    h2 {
-        font-size: 1.7rem;
-    }
-
-    h3 {
-        font-size: 1.3rem;
-    }
-
-    h4 {
-        font-size: 1rem;
-    }
+  text-decoration: underline;
 }
